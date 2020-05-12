@@ -11,9 +11,9 @@
 Note that all data is exclusive for attendee at Udacity Machine Learning Engineer nandegree and won't be available to public. 
 
 <b>Requirements<b> 
- <br>
+
 Python 3.7 and libraries stated in Final_Project_Arvato.ipynb are required. No external library is used in this project. You don't need to download anything beforehand. 
 
 <b>Acknowledgements</b>
-<br>
+
 Thanks Udacity and Arvato for providing data and organizing the details to make the project possible. 
